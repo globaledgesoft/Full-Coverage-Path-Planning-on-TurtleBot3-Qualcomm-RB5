@@ -1,0 +1,5 @@
+ <library path="lib/librobot_global_planner">
+  <class name="robot_global_planner/RobotGlobalPlanner" type="robot_global_planner::RobotGlobalPlanner" base_class_type="nav_core::BaseGlobalPlanner">
+    <description>This is a global planner package for creating straight plan for floor cleaning robot.</description>
+  </class>
+ </library>

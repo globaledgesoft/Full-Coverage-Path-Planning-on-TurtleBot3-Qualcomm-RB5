@@ -1,0 +1,5 @@
+geometry_msgs/PoseStamped start
+---
+robot_global_planner/WayPoint[] pose_list
+bool normal_goal
+bool align_goal
